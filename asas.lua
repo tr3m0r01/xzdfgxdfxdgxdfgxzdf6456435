@@ -139,4 +139,4 @@ spawn(function()
     end
 end)
 
-print("INSTANT SHELL + MAX PEN АКТИВЕН — пуля прилетает мгновенно и пробивает всё")w
+print("INSTANT SHELL + MAX PEN АКТИВЕН — пуля прилетает мгновенно и пробивает всё")
